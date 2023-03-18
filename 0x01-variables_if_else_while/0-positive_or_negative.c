@@ -5,7 +5,7 @@
 
 /**
  * main - Entry point
- * Description - Prints if random generated number is positive, negative or zero
+ * Description - Prints if random generated number is +, -  or zero
  * Return: Always 0 (success)
  */
 int main(void)
