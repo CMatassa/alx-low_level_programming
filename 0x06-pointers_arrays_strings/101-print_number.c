@@ -2,14 +2,14 @@
 
 /**
  * print_number - prints an integer
- * @n; integer params
+ * @n: integer params
  *
  * Return: 0
  */
 void print_number(int n)
 
 {
-	unsigned in n1;
+	unsigned int n1;
 
 	n1 = n;
 
